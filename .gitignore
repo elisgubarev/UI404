@@ -1,0 +1,5 @@
+/dist
+/gulp
+/node_modules
+.DS_Store
+gulpfile.js
